@@ -1,3 +1,5 @@
-- fahrenhight to celciums
+
 - meters to centimeters
 - hour to minutes
+- degrees to radians
+- feet to inches
