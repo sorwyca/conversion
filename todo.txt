@@ -1,0 +1,3 @@
+- fahrenhight to celciums
+- meters to centimeters
+- hour to minutes
